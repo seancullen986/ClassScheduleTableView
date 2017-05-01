@@ -12,7 +12,7 @@ class ClassDetailsViewController: UIViewController {
     var classData: Class?
     var backgroundImageView: UIImageView?
     
-    // Outlets going to storyboard
+    // Outlets to storyboard
     @IBOutlet weak var departmentView: UIView!
     @IBOutlet weak var _className: UILabel!
     
