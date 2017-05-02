@@ -75,7 +75,12 @@ class ClassDetailsViewController: UIViewController {
         
         _description.text = classData?.description
         
-        _location.text = "Location: " + (classData?.facilityID)!
+        if (classData?.room)! == ""{
+            _location.text = "Location: " + (classData?.building)!
+        }
+        else{
+            _location.text = "Location: " + (classData?.building)! + " " + (classData?.room)!
+        }
         _instructor.text = "Instructor: " + (classData?.firstName)! + " " + (classData?.lastName)!
         _days.text = getDays(standardMeetingPattern: (classData?.standardMeetingPattern)!)
         _time.text = (classData?.startTime)! + "-" + (classData?.endTime)!

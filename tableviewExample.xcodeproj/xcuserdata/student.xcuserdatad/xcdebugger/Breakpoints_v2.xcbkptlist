@@ -145,38 +145,6 @@
             endingLineNumber = "188"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "tableviewExample.ClassScheduleTableViewController.tableView (__ObjC.UITableView, cellForRowAt : Foundation.IndexPath) -&gt; __ObjC.UITableViewCell"
-                  moduleName = "tableviewExample"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassScheduleTableViewController.swift"
-                  timestampString = "514757074.702288"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "140"
-                  endingLineNumber = "140"
-                  offsetFromSymbolStart = "202">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "tableviewExample.ClassScheduleTableViewController.tableView (__ObjC.UITableView, cellForRowAt : Foundation.IndexPath) -&gt; __ObjC.UITableViewCell"
-                  moduleName = "tableviewExample"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassScheduleTableViewController.swift"
-                  timestampString = "514757074.704003"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "140"
-                  endingLineNumber = "140"
-                  offsetFromSymbolStart = "371">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -201,13 +169,13 @@
                   symbolName = "tableviewExample.ClassScheduleTableViewController.tableView (__ObjC.UITableView, cellForRowAt : Foundation.IndexPath) -&gt; __ObjC.UITableViewCell"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassScheduleTableViewController.swift"
-                  timestampString = "514757074.707622"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassScheduleTableViewController.swift"
+                  timestampString = "515455366.354319"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "140"
-                  endingLineNumber = "140"
-                  offsetFromSymbolStart = "202">
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "198">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -216,13 +184,13 @@
                   symbolName = "tableviewExample.ClassScheduleTableViewController.tableView (__ObjC.UITableView, cellForRowAt : Foundation.IndexPath) -&gt; __ObjC.UITableViewCell"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassScheduleTableViewController.swift"
-                  timestampString = "514757074.70963"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassScheduleTableViewController.swift"
+                  timestampString = "515455366.355451"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "140"
-                  endingLineNumber = "140"
-                  offsetFromSymbolStart = "371">
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "346">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -241,6 +209,38 @@
             endingLineNumber = "194"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableviewExample.ClassScheduleTableViewController.tableView (__ObjC.UITableView, cellForRowAt : Foundation.IndexPath) -&gt; __ObjC.UITableViewCell"
+                  moduleName = "tableviewExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassScheduleTableViewController.swift"
+                  timestampString = "515455366.357823"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableviewExample.ClassScheduleTableViewController.tableView (__ObjC.UITableView, cellForRowAt : Foundation.IndexPath) -&gt; __ObjC.UITableViewCell"
+                  moduleName = "tableviewExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassScheduleTableViewController.swift"
+                  timestampString = "515455366.359021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "1110">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -265,8 +265,8 @@
                   symbolName = "tableviewExample.ClassViewCell.ClassName.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.716389"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.361305"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
@@ -280,8 +280,8 @@
                   symbolName = "tableviewExample.ClassViewCell.ClassName.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.718042"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.362483"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
@@ -295,8 +295,8 @@
                   symbolName = "tableviewExample.ClassViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; tableviewExample.ClassViewCell"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.719837"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.363664"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
@@ -310,8 +310,8 @@
                   symbolName = "tableviewExample.ClassViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tableviewExample.ClassViewCell&gt;"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.72153"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.364752"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
@@ -343,8 +343,8 @@
                   symbolName = "tableviewExample.ClassViewCell.ClassName.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.725725"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.367588"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
@@ -358,8 +358,8 @@
                   symbolName = "tableviewExample.ClassViewCell.ClassName.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.727464"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.368693"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
@@ -373,8 +373,8 @@
                   symbolName = "tableviewExample.ClassViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; tableviewExample.ClassViewCell"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.729407"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.369795"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
@@ -388,8 +388,8 @@
                   symbolName = "tableviewExample.ClassViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tableviewExample.ClassViewCell&gt;"
                   moduleName = "tableviewExample"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/scullen/cs470/tableviewExample/tableviewExample/ClassViewCell.swift"
-                  timestampString = "514757074.731191"
+                  urlString = "file:///Users/student/Desktop/ClassScheduleTableView/tableviewExample/ClassViewCell.swift"
+                  timestampString = "515455366.370907"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "25"
