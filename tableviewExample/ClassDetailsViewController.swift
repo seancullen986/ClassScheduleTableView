@@ -20,6 +20,8 @@ class ClassDetailsViewController: UIViewController {
     @IBOutlet weak var _description: UILabel!
     // @IBOutlet weak var _className: UILabel!
     @IBOutlet weak var _location: UILabel!
+    @IBOutlet weak var _building: UILabel!
+    @IBOutlet weak var _room: UILabel!
     @IBOutlet weak var _instructor: UILabel!
     @IBOutlet weak var _days: UILabel!
     @IBOutlet weak var _time: UILabel!
@@ -75,12 +77,8 @@ class ClassDetailsViewController: UIViewController {
         
         _description.text = classData?.description
         
-        if (classData?.room)! == ""{
-            _location.text = "Location: " + (classData?.building)!
-        }
-        else{
-            _location.text = "Location: " + (classData?.building)! + " " + (classData?.room)!
-        }
+        _building.text = (classData?.building)!
+        _room.text = (classData?.room)!
         _instructor.text = "Instructor: " + (classData?.firstName)! + " " + (classData?.lastName)!
         _days.text = getDays(standardMeetingPattern: (classData?.standardMeetingPattern)!)
         _time.text = (classData?.startTime)! + "-" + (classData?.endTime)!
